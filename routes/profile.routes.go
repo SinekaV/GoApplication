@@ -1,0 +1,1 @@
+////fetch data routes..PARA  will be used BY CONTROLLER THROUGH GIN
